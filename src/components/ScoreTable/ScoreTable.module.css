@@ -1,0 +1,16 @@
+.ScoreTable {}
+
+.ScoreTableWinner {
+    color: #136F63;
+    display: flex;
+}
+
+.ScoreTableLoser {
+    color: #F34213;
+    display: flex;
+}
+
+.ScoreTableCurrent {
+    display: flex;
+    color: #255F85;
+}
